@@ -188,11 +188,9 @@ Used for:
 <img width="301" height="641" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />
 
 ## Home Screens
-
 <p align="center">
-  <img width="280" alt="homescreen-dark" src="<img width="301" height="641" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />" />
-  <img width="280" alt="homescreen-light" src="<img width="311" height="631" alt="homescreen-light" src="https://github.com/user-attachments/assets/869730ae-a991-4ecc-8324-3ca65300678a" />
-" />
+  <img width="280" alt="homescreen-light" src="https://github.com/user-attachments/assets/869730ae-a991-4ecc-8324-3ca65300678a" />
+  <img width="280" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />
 </p>
 
 

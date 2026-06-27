@@ -182,11 +182,11 @@ Used for:
 
 ## Home Screens
 
-**Light Mode** | **Dark Mode**
+**Dark Mode** | **Light Mode**
 
 <p align="center">
-  <img width="280" alt="Home Light" src="LIGHT_IMAGE_URL" />
-  <img width="280" alt="Home Dark" src="DARK_IMAGE_URL" />
+  <img width="280" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />
+  <img width="280" alt="homescreen-light" src="https://github.com/user-attachments/assets/869730ae-a991-4ecc-8324-3ca65300678a" />
 </p>
 
 
@@ -224,6 +224,7 @@ Used for:
 </p>
 
 ### Camera Permission
+**tested on Device**
 <img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/fc1357a7-3175-46a7-bef0-7ea8c6309500" />
 
 
@@ -231,7 +232,75 @@ Used for:
 <img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/82ede848-7616-48ce-a173-bd2941bfbc41" />
 
 
-### Verified Customer Flow
+### Verified Customer Flow   
+
+
+Example customer: **Michael Williams**
+
+#### 1. Customer in Pending List
+Shows the customer before KYC verification in the Pending tab.
+
+<p align="center">
+  <img width="260" alt="Pending Customer" src="https://github.com/user-attachments/assets/efe6c613-f255-49a9-89cb-fdf27efbfe2c" />
+</p>
+
+---
+
+#### 2. Customer Details (Pending Status)
+Customer details screen before verification.
+
+<p align="center">
+  <img width="260" alt="Pending Details" src="https://github.com/user-attachments/assets/252a6dba-275f-42bc-9b29-41d5af44d306" />
+</p>
+
+---
+
+#### 3. Verified Tab Initially Empty
+Before verification, the Verified section has no customers.
+
+<p align="center">
+  <img width="260" alt="Empty Verified List" src="https://github.com/user-attachments/assets/a587c346-271d-4b55-a1d4-34ff020bacea" />
+</p>
+
+---
+
+#### 4. Camera Opens for Selfie Capture
+After clicking **Do KYC**, the in-app front camera opens.
+
+<p align="center">
+  <img width="260" alt="Camera Capture Screen" src="https://github.com/user-attachments/assets/5b4738fd-99c4-460e-99ab-3ad7ad4288a7" />
+</p>
+
+---
+
+#### 5. Selfie Captured and Profile Updated
+Captured selfie replaces the customer profile image and KYC action changes to **Retake Selfie**.
+
+<p align="center">
+  <img width="260" alt="After Capture Profile Updated" src="https://github.com/user-attachments/assets/748f8115-6d9a-49f8-bed4-85d4b1072f71" />
+</p>
+
+---
+
+#### 6. Customer Moved to Verified Section
+After successful KYC, customer is visible in the Verified tab.
+
+<p align="center">
+  <img width="260" alt="Verified Section" src="https://github.com/user-attachments/assets/202e4937-77b6-42ce-b6d3-027ff1cf9d6a" />
+</p>
+
+---
+
+#### 7. Customer Details (Verified Status)
+Customer details screen after verification.
+
+<p align="center">
+  <img width="260" alt="Verified Details" src="https://github.com/user-attachments/assets/843c943f-dea8-43b0-903a-43b6ce86b879" />
+</p>
+
+
+
+
 
 
 ---

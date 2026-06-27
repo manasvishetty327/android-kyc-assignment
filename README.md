@@ -322,6 +322,4 @@ There are a few areas where this application can be extended further:
 ---
 
 ## Author
-
-## Author
 Developed by **Manasvi Shetty**

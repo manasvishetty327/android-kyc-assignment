@@ -182,6 +182,8 @@ The application starts with a simple splash screen displaying the Digital KYC br
 
 **Light Mode** | **Dark Mode**
 
+Here, you can find the masked account number ending with 5865 (***5865).
+
 <p align="center">
   <img width="280" alt="homescreen-light" src="https://github.com/user-attachments/assets/869730ae-a991-4ecc-8324-3ca65300678a" />
   <img width="280" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />

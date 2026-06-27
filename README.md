@@ -180,49 +180,63 @@ Used for:
 
 ## Screenshots
 
-### Home Screen (Light Mode)
-<img width="311" height="631" alt="homescreen-light" src="https://github.com/user-attachments/assets/869730ae-a991-4ecc-8324-3ca65300678a" />
-
-
-### Home Screen (Dark Mode)
-<img width="301" height="641" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />
-
 ## Home Screens
+
+**Light Mode** | **Dark Mode**
+
 <p align="center">
-  <img width="280" alt="homescreen-light" src="https://github.com/user-attachments/assets/869730ae-a991-4ecc-8324-3ca65300678a" />
-  <img width="280" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />
+  <img width="280" alt="Home Light" src="LIGHT_IMAGE_URL" />
+  <img width="280" alt="Home Dark" src="DARK_IMAGE_URL" />
 </p>
 
 
 ### Filtered Accounts
+
+**All** | **Savings** | **Current** | **NRI**
+
 <p align="center">
-  <img src="screenshots/home-light.png" width="250"/>
-  <img src="screenshots/home-dark.png" width="250"/>
+  <img width="250" alt="All Accounts" src="https://github.com/user-attachments/assets/b2f6e32d-00b1-415a-a952-b7ae51268b5f" />
+  <img width="250" alt="Savings Accounts" src="https://github.com/user-attachments/assets/7ae23dcd-cfa9-4de3-bae3-d2ab9274633c" />
+  <img width="250" alt="Current Accounts" src="https://github.com/user-attachments/assets/bdace38b-ccdd-4fb3-8a59-adef05d479c4" />
+</p>
+
+<p align="center">
+  <img width="250" alt="NRI Accounts" src="https://github.com/user-attachments/assets/d0af159a-2181-4961-bcd8-1a2022153dba" />
 </p>
 
 ### Pagination
-(Add screenshot here)
 
-### Customer Details (Light Mode)
-(Add screenshot here)
+**Page 1** | **Page 2** | **Page 3**
 
-### Customer Details (Dark Mode)
-(Add screenshot here)
+<p align="center">
+  <img width="250" alt="Page 1" src="https://github.com/user-attachments/assets/1f49bceb-e8b9-48db-b1e7-1cb9a91198a0" />
+  <img width="250" alt="Page 2" src="https://github.com/user-attachments/assets/675c337b-a576-4aa9-9698-f4c593c0763f" />
+  <img width="250" alt="Page 3" src="https://github.com/user-attachments/assets/3fa65b21-1772-474a-9925-a9b9fc2e2af9" />
+</p>
+
+### Customer Details
+
+**Light Mode** | **Dark Mode**
+
+<p align="center">
+  <img width="280" alt="Details Light" src="https://github.com/user-attachments/assets/eaf3a74a-f4d1-4fd7-93fd-4b77db8dd5c8" />
+  <img width="280" alt="Details Dark" src="https://github.com/user-attachments/assets/154d2d13-05eb-4df4-89db-ba0fd0680ae9" />
+</p>
 
 ### Camera Permission
-(Add screenshot here)
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/fc1357a7-3175-46a7-bef0-7ea8c6309500" />
+
 
 ### Selfie Capture
-(Add screenshot here)
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/82ede848-7616-48ce-a173-bd2941bfbc41" />
+
 
 ### Verified Customer Flow
-(Add screenshot here)
+
 
 ---
 
 ## Future Enhancements
-
-## Future Improvements
 
 There are a few areas where this application can be extended further:
 

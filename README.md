@@ -61,32 +61,18 @@ Displays:
 
 ## Tech Stack
 
-### Language
-- Kotlin
-
-### UI
-- Jetpack Compose
-- Material 3
-
-### Architecture
-- MVVM
-- Clean Architecture
-
-### Dependency Injection
-- Hilt
-
-### Networking
-- Retrofit
-
-### Image Loading
-- Coil
-
-### Local Storage
-- SharedPreferences
-- Gson
-
-### Camera
-- CameraX
+| Category | Technologies |
+|----------|-------------|
+| **Language** | Kotlin |
+| **UI** | Jetpack Compose, Material 3 |
+| **Architecture** | MVVM, Clean Architecture |
+| **Dependency Injection** | Hilt |
+| **Networking** | Retrofit |
+| **Image Loading** | Coil |
+| **Local Storage** | SharedPreferences, Gson |
+| **Camera** | CameraX |
+| **State Management** | StateFlow, MutableStateFlow |
+| **Navigation** | Jetpack Navigation Compose |
 
 ---
 
@@ -157,7 +143,7 @@ app/
 
 ### Customer Data API
 **DummyJSON**  
-https://dummyjson.com/users
+[https://dummyjson.com/users](https://dummyjson.com/users)
 
 Used for:
 - Customer profile details
@@ -169,7 +155,7 @@ Used for:
 
 ### IFSC Verification API
 **Razorpay IFSC API**  
-https://ifsc.razorpay.com/
+[https://ifsc.razorpay.com/](https://ifsc.razorpay.com/)
 
 Used for:
 - Live bank name resolution
@@ -305,14 +291,9 @@ Customer details screen after verification.
   <img width="260" alt="Verified Details" src="https://github.com/user-attachments/assets/843c943f-dea8-43b0-903a-43b6ce86b879" />
 </p>
 
-
-
-
-
-
 ---
 
-## Future Enhancements
+## Future Improvements
 
 There are a few areas where this application can be extended further:
 

@@ -6,6 +6,10 @@ The application allows relationship managers to browse customer accounts, view c
 
 This project follows **Clean Architecture** with proper separation of UI, Domain, and Data layers.
 
+<p align="center">
+  <img width="280" alt="Digital KYC Screenshot" src="https://github.com/user-attachments/assets/218954ad-286d-419b-9b5f-e006752782f1" />
+</p>
+
 ---
 
 ## Features
@@ -163,16 +167,24 @@ Used for:
 - State verification
 
 ---
+## Splash Screen
 
-## Screenshots
-
-## Home Screens
-
-**Dark Mode** | **Light Mode**
+The application starts with a simple splash screen displaying the Digital KYC branding before loading customer data.
 
 <p align="center">
-  <img width="280" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />
+  <img width="280" alt="Splash Screen" src="https://github.com/user-attachments/assets/178990f7-3d1f-4c6d-ba68-20f91a3cec8f" />
+</p>
+
+---
+## Screenshots
+
+### Home Screens
+
+**Light Mode** | **Dark Mode**
+
+<p align="center">
   <img width="280" alt="homescreen-light" src="https://github.com/user-attachments/assets/869730ae-a991-4ecc-8324-3ca65300678a" />
+  <img width="280" alt="homescreen-dark" src="https://github.com/user-attachments/assets/e294dabc-dc0d-4d2b-8187-bc5a76586a9c" />
 </p>
 
 
@@ -210,7 +222,6 @@ Used for:
 </p>
 
 ### Camera Permission
-**Tested on Device**
 
 <p align="center">
   <img width="280" alt="Camera Permission" src="https://github.com/user-attachments/assets/fc1357a7-3175-46a7-bef0-7ea8c6309500" />
@@ -220,10 +231,13 @@ Used for:
 
 ### Selfie Capture
 
-<p align="center">
-  <img width="280" alt="Selfie Capture" src="https://github.com/user-attachments/assets/82ede848-7616-48ce-a173-bd2941bfbc41" />
-</p>
+**Tested on Device**
 
+In-app camera preview used for capturing customer selfie during KYC verification.
+
+<p align="center">
+  <img width="280" alt="Selfie Capture" src="https://github.com/user-attachments/assets/3d7aaf89-a3ec-4764-87fb-f321b89009c0" />
+</p>
 
 ### Verified Customer Flow   
 
@@ -231,6 +245,7 @@ Used for:
 Example customer: **Michael Williams**
 
 #### 1. Customer in Pending List
+
 Shows the customer before KYC verification in the Pending tab.
 
 <p align="center">
@@ -308,4 +323,5 @@ There are a few areas where this application can be extended further:
 
 ## Author
 
-**Manasvi Shetty**
+## Author
+Developed by **Manasvi Shetty**

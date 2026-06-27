@@ -224,12 +224,19 @@ Used for:
 </p>
 
 ### Camera Permission
-**tested on Device**
-<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/fc1357a7-3175-46a7-bef0-7ea8c6309500" />
+**Tested on Device**
 
+<p align="center">
+  <img width="280" alt="Camera Permission" src="https://github.com/user-attachments/assets/fc1357a7-3175-46a7-bef0-7ea8c6309500" />
+</p>
+
+---
 
 ### Selfie Capture
-<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/82ede848-7616-48ce-a173-bd2941bfbc41" />
+
+<p align="center">
+  <img width="280" alt="Selfie Capture" src="https://github.com/user-attachments/assets/82ede848-7616-48ce-a173-bd2941bfbc41" />
+</p>
 
 
 ### Verified Customer Flow   
